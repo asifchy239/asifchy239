@@ -1,10 +1,10 @@
-👋 Hi, I'm Asif Mahmud Chowdhury
+**👋 Hi, I'm Asif Mahmud Chowdhury**
 
-🎓 Aspiring Researcher in Sustainable AI & Energy-Efficient Computing
+🎓 Aspiring Researcher in **Sustainable AI & Energy-Efficient Computing**
 💻 Background in Software Engineering, Data Analytics, and Systems Optimization
 🌍 Interested in Measuring and Reducing the Carbon Footprint of AI Systems
 
-🔬 Research Interests
+**🔬 Research Interests**
 
 Green AI and Carbon-Aware Computing
 
@@ -14,7 +14,7 @@ System-Level AI Workload Measurement
 
 Performance vs Energy Trade-off in Machine Learning Systems
 
-🧪 Current Research Work
+**🧪 Current Research Work**
 
 I am conducting independent research focused on measuring and optimizing the environmental impact of AI workloads in real-world computing environments.
 
@@ -28,14 +28,15 @@ Developing Python-based optimization experiments
 
 Analyzing performance, accuracy, and energy trade-offs
 
-📂 Featured Research Projects
+**📂 Featured Research Projects**
 
 🔹 AI Workload Carbon Footprint Monitoring
 👉 https://github.com/asifchy239/system_project_monitor
 
 🔹 Cloud & Linux System Monitoring Experiments
 👉 https://github.com/asifchy239/cloud-linux-monitoring
-🛠 Technical Skills
+
+**🛠 Technical Skills**
 
 Python (Pandas, Matplotlib, System Monitoring)
 
@@ -47,11 +48,11 @@ SQL & Data Analysis
 
 AWS Cloud Infrastructure
 
-🎯 Academic Goal
+**🎯 Academic Goal**
 
 I aim to pursue a research-based MSc focusing on sustainable and energy-efficient AI systems, with the long-term goal of contributing to environmentally responsible large-scale AI deployment.
 
-📫 Contact
+**📫 Contact**
 
 📧 asifchy239@gmail.com
 
